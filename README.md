@@ -1,6 +1,6 @@
 # Dissertacao-Cristhiano_Henrique
 
-This repository consists of the R code that was made to collect and concatenate economic data. [Cristhiano Henrique Eufrasio da Costa](http://lattes.cnpq.br/9252323905076913) hired me as a feelancer agent to build this pannel data structure that will be used in his Master's Degree Thesis.
+This repository consists of the R code that was made to collect and concatenate economic data. [Cristhiano Henrique Eufrasio da Costa](http://lattes.cnpq.br/9252323905076913) hired me as a feelancer agent to build [this pannel data structure](https://github.com/vitorbborges/Dissertacao-Cristhiano_Henrique/blob/main/PAINEL_COMPLETO_formatado.xlsx?raw=true) that will be used in his Master's Degree Thesis.
 
 The main subject of his analysis is the impact of Financial Intelligence Units (FIU) Models of Administration in the economic wellbeing of the country in which it operates. FIU's can be run in one of the folowing models:
 
@@ -12,3 +12,18 @@ The main subject of his analysis is the impact of Financial Intelligence Units (
 
 - The **Hybrid Model** serves as a disclosure intermediary and a link to both judicial and law enforcement authorities. It combines elements of at least two FIU models.
 
+The economic variables that will be monitored are the following:
+
+- GDP (current US$)
+- HDI
+- Population, total
+- GINI index
+- Inflation, GDP deflator (annual %)
+- Intentional homicides (per 100,000 people)
+- Mortality rate, under-5 (per 1,000 live births)
+- Literacy rate, adult total (% of people ages 15 and above)
+- External debt stocks (% of GNI)
+- Democracy Index
+- Corruption Perception Index
+- Income Level
+- Economic Freedom Summary Index
