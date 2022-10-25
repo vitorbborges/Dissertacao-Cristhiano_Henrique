@@ -1,6 +1,6 @@
 # Dissertacao-Cristhiano_Henrique
 
-This repository consists of the R code that was made to collect and concatenate economic data. [Cristhiano Henrique Eufrasio da Costa](http://lattes.cnpq.br/9252323905076913) hired me as a feelancer agent to build [this pannel data structure](https://github.com/vitorbborges/Dissertacao-Cristhiano_Henrique/blob/main/PAINEL_COMPLETO_formatado.xlsx?raw=true) that will be used in his Master's Degree Thesis.
+This repository consists of the R code that was made to collect and concatenate and analyse economic data. [Cristhiano Henrique Eufrasio da Costa](http://lattes.cnpq.br/9252323905076913) hired me as a feelancer agent to build [this pannel data structure](https://github.com/vitorbborges/Dissertacao-Cristhiano_Henrique/blob/main/PAINEL_COMPLETO_formatado.xlsx?raw=true) that will be used in his Master's Degree Thesis.
 
 The main subject of his analysis is the impact of Financial Intelligence Units (FIU) Models of Administration in the economic wellbeing of the country in which it operates. FIU's can be run in one of the folowing models:
 
