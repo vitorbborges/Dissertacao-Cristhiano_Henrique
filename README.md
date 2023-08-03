@@ -1,16 +1,27 @@
-# Dissertacao-Cristhiano_Henrique
+# Part 1: Data Collection and Preparation
 
-This repository consists of the R code that was made to collect and concatenate and analyse economic data. [Cristhiano Henrique Eufrasio da Costa](http://lattes.cnpq.br/9252323905076913) hired me as a feelancer agent to build [this pannel data structure](https://github.com/vitorbborges/Dissertacao-Cristhiano_Henrique/blob/main/Parte%201/PAINEL_COMPLETO_formatado.xlsx) that will be used in his Master's Degree Thesis.
+In this initial part of the project, I was tasked with the collection, concatenation, and analysis of economic data for [Cristhiano Henrique Eufrasio da Costa](http://lattes.cnpq.br/9252323905076913). As a freelance agent, I constructed [this panel data structure](https://github.com/vitorbborges/Dissertacao-Cristhiano_Henrique/blob/main/Parte%201/PAINEL_COMPLETO_formatado.xlsx) that would serve as the foundation for his Master's Degree Thesis.
 
-The main subject of his analysis is the impact of Financial Intelligence Units (FIU) Models of Administration in the economic wellbeing of the country in which it operates. FIU's can be run in one of the folowing models:
+## Project Overview
 
-- The **Judicial Model** is when an FIU is established within the judicial branch of government. In this model “disclosures” of suspicious financial activity are received by a country’s investigative agencies from its financial sector so the judiciary powers can react (e.g., seizing funds, freezing accounts, conducting interrogations, detaining people, conducting searches, etc.).
+The primary focus of Cristhiano's analysis is to understand the impact of different Financial Intelligence Units (FIU) Models of Administration on the economic wellbeing of the countries they operate in. FIUs can be administered under one of the following models:
 
-- The **Law Enforcement Model** implements anti-money laundering measures alongside existing law enforcement systems, supporting the efforts of multiple law enforcement or judicial authorities with concurrent, or sometimes competing, jurisdictional authority to investigate money laundering.
+- The **Judicial Model**: Here, an FIU is established within the judicial branch of government. In this model, "disclosures" of suspicious financial activity are received by a country’s investigative agencies from its financial sector, enabling the judiciary powers to react (e.g., seizing funds, freezing accounts, conducting interrogations, detaining people, conducting searches, etc.).
 
-- The **Administrative Model** is a centralized, independent, administrative authority, that receives and processes financial sector information and transmits disclosures to judicial or law enforcement authorities for prosecution. It functions as a “buffer” between the financial and law enforcement communities.
+- The **Law Enforcement Model**: This model implements anti-money laundering measures alongside existing law enforcement systems. It supports the efforts of multiple law enforcement or judicial authorities with concurrent, or sometimes competing, jurisdictional authority to investigate money laundering.
 
-- The **Hybrid Model** serves as a disclosure intermediary and a link to both judicial and law enforcement authorities. It combines elements of at least two FIU models.
+- The **Administrative Model**: This is a centralized, independent, administrative authority that receives and processes financial sector information and transmits disclosures to judicial or law enforcement authorities for prosecution. It functions as a “buffer” between the financial and law enforcement communities.
+
+- The **Hybrid Model**: This model serves as a disclosure intermediary and a link to both judicial and law enforcement authorities. It combines elements of at least two FIU models.
+
+## Data Collection and Preparation
+
+The data collection process involved using R programming to gather and concatenate relevant economic data. This data was then formatted into a panel data structure, which is particularly suited to econometric analysis.
+
+## Conclusion
+
+By the end of this part, a comprehensive dataset was prepared for Cristhiano's analysis. This dataset, combined with an understanding of the different FIU models, set the stage for the econometric analysis that would be conducted in Part 2 of this project.
+
 
 # Part 2: Teaching Stata and Econometric Analysis
 
